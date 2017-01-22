@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="08cd98604f5c3200931cb3728110c78a" sys_domain="global" table="x_23437_hotel_guest" version="3" view="sys_ref_list">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-10 07:45:20</sys_created_on>
+            <sys_id>48cd98604f5c3200931cb3728110c78b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_23437_hotel_guest" sys_domain="global" view="c55f07724f003200931cb3728110c72b">08cd98604f5c3200931cb3728110c78a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-10 07:45:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-10 07:45:20</sys_created_on>
+            <sys_id>80cd98604f5c3200931cb3728110c78c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_23437_hotel_guest" sys_domain="global" view="c55f07724f003200931cb3728110c72b">08cd98604f5c3200931cb3728110c78a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-10 07:45:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-10 07:45:20</sys_created_on>
+            <sys_id>04cd98604f5c3200931cb3728110c78c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_23437_hotel_guest" sys_domain="global" view="c55f07724f003200931cb3728110c72b">08cd98604f5c3200931cb3728110c78a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-10 07:45:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-10 07:45:20</sys_created_on>
+            <sys_id>84cd98604f5c3200931cb3728110c78c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_23437_hotel_guest" sys_domain="global" view="c55f07724f003200931cb3728110c72b">08cd98604f5c3200931cb3728110c78a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-10 07:45:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_password</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-10 07:45:20</sys_created_on>
+            <sys_id>08cd98604f5c3200931cb3728110c78c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_23437_hotel_guest" sys_domain="global" view="c55f07724f003200931cb3728110c72b">08cd98604f5c3200931cb3728110c78a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-10 07:45:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>password_needs_reset</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-10 07:45:20</sys_created_on>
+            <sys_id>88cd98604f5c3200931cb3728110c78c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_23437_hotel_guest" sys_domain="global" view="c55f07724f003200931cb3728110c72b">08cd98604f5c3200931cb3728110c78a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-10 07:45:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_23437_hotel_guest</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-10 07:45:20</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08cd98604f5c3200931cb3728110c78a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_23437_hotel_guest</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Hotel" source="x_23437_hotel">7a2d9cdf4f003200931cb3728110c774</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Hotel">7a2d9cdf4f003200931cb3728110c774</sys_scope>
+            <sys_update_name>sys_ui_section_08cd98604f5c3200931cb3728110c78a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-10 07:45:20</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Reference List" name="sys_ref_list">c55f07724f003200931cb3728110c72b</view>
+            <view_name>sys_ref_list</view_name>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

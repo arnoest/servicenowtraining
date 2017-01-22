@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Maintenance</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Maintenance</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">6d20d3b64f003200931cb3728110c7cc</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-01-12 19:39:42</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>887415994f1c3200931cb3728110c743</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Maintenance</sys_name>
+        <sys_package display_value="Hotel" source="x_23437_hotel">7a2d9cdf4f003200931cb3728110c774</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Hotel">7a2d9cdf4f003200931cb3728110c774</sys_scope>
+        <sys_update_name>sys_wizard_answer_887415994f1c3200931cb3728110c743</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-01-12 19:39:42</sys_updated_on>
+        <table/>
+        <target_url>x_23437_hotel_maintenance.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
